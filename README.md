@@ -3,7 +3,7 @@
 Assignments, Projects and Paper reading done in DLNLP course at Indian Institute of Science, Bangalore.
 
 ## Notes
-NLP Notes that I've taken during the course - https://rhinestone-skate-0a3.notion.site/NLP-6a5f0241a19448a680be38159fad981f
+NLP Notes that I've taken during the course - https://rhinestone-skate-0a3.notion.site/NLP-6a5f0241a19448a680be38159fad981f  
 Includes paper summary, common loss functions and intuition.
 
 ## Assignment 1 
